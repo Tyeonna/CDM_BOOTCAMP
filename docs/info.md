@@ -10,9 +10,10 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 
-TO Follow
+To Follow
 
 ## How to test
+Type ka dyan
 
 Explain how to use your project
 
